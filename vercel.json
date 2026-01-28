@@ -1,4 +1,5 @@
 {
-    "rewrites":[{"source":"/(.*)", "destination":"/Porfile.html" }]
+    "rewrites":[{"source":"/(.*)", "destination":"/Profile.html" }]
 }
+
 
